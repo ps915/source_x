@@ -3,7 +3,7 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 
 <img src="" width="800">
 
-# About SOURCE MICRO
+# About SOURCE X
 ## The idea
 
 
@@ -11,19 +11,14 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 <img src="" width="800">
 
 ## Frame specifications
-* Wheelbase : 
-* Top plate: 2.5 mm
-* Bottom plate: 4 mm
-* Standoff height: XXX mm
-* Stack mounting: XXX
-* Weight: XX g
+* MTM distance: 800mm
+* Frame Weight: 700g
 
-## Hardware
-*  xxx
-*  xxx
 
 ## Where to buy
 * [www.team-blacksheep.com - Frame](https://www.team-blacksheep.com/products/prod:source_x)
+* [www.team-blacksheep.com - Arm](https://www.team-blacksheep.com/products/prod:sourcex_arm)
+* [www.team-blacksheep.com - Body and Hardware](https://www.team-blacksheep.com/products/prod:sourcex_bodyandhw)
 * open [issue](https://github.com/ps915/source_x/issues/new) if you want your shop added
 
 ## Accessories
@@ -40,7 +35,7 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 Please use the tag "sourcex" when uploading files to thingiverse.com
 
 ## Changelog
-### SOURCE X v0.1 
+### SOURCE X v1.0
 <img src="" width="500">
 ....
 
