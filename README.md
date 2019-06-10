@@ -1,14 +1,17 @@
 # source_x
 Open Source FPV Drone Frame project initiated by Team BlackSheep
 
-<img src="" width="800">
+<img src="https://github.com/ps915/source_x/blob/master/photos/blueprint/SOURCE_X.png" width="800">
 
 # About SOURCE X
 ## The idea
+The SOURCE-X project is a giant drone racing frame project initiated by Team BlackSheep and designed by Horus Drones.
 
+The frame is donated to the community to empower creators and makers, and integrate best practices and current trends faster into a continuously manufactured product. In return, it allows the local distribution network to have cheap and direct access to a good frame to compete in an increasingly competitive marketplace.
 
+The giant drone racing class (e.g. X-Class, Mega Class) community is a pioneer for spectator drone racing. It is their goal to grow the sport by making it more interesting to watch. Become a pilot, find a local chapter and race until your battery packs are glowing hot!
 
-<img src="" width="800">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_01.JPG" width="800">
 
 ## Frame specifications
 * MTM distance: 800mm
@@ -36,10 +39,17 @@ Please use the tag "sourcex" when uploading files to thingiverse.com
 
 ## Changelog
 ### SOURCE X v1.0
-<img src="" width="500">
-....
-
 * initial release from TBS
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_01.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_02.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_03.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_04.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_05.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_06.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_07.JPG" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_08.JPG" width="500">
+
+
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
