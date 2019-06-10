@@ -40,6 +40,8 @@ Please use the tag "sourcex" when uploading files to thingiverse.com
 ## Changelog
 ### SOURCE X v1.0
 * initial release from TBS
+<img src="https://github.com/ps915/source_x/blob/master/photos/sx_frame.jpg" width="500">
+<img src="https://github.com/ps915/source_x/blob/master/photos/sx_arm.jpeg" width="500">
 <img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_01.JPG" width="500">
 <img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_02.JPG" width="500">
 <img src="https://github.com/ps915/source_x/blob/master/photos/Source_X_Render_black_03.JPG" width="500">
