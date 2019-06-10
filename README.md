@@ -20,6 +20,7 @@ The giant drone racing class (e.g. X-Class, Mega Class) community is a pioneer f
 * Top Plate: 2mm thick
 * Motors Plates: 2mm thick
 * Camera Plate:  4mm thick
+* 1x Arm: Size: 370 x 25 x 25 (mm) Arm Weight: 60g
 
 
 
