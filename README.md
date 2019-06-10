@@ -16,6 +16,11 @@ The giant drone racing class (e.g. X-Class, Mega Class) community is a pioneer f
 ## Frame specifications
 * MTM distance: 800mm
 * Frame Weight: 700g
+* Bottom Plate : 4mm thick
+* Top Plate: 2mm thick
+* Motors Plates: 2mm thick
+* Camera Plate:  4mm thick
+
 
 
 ## Where to buy
